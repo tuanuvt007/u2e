@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./index.56095196.js";const s={},c={class:"about"},n=_("h1",null,"Mobile l\xE0m t\u01B0\u01A1ng t\u1EF1 web \u{1F602} ",-1),a=[n];function r(i,l){return t(),o("div",c,a)}const u=e(s,[["render",r]]);export{u as default};
